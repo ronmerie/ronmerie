@@ -7,7 +7,8 @@ Skills: DJANGO / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on Marketing website 
 - 🌱 I’m currently learning C# 
 - ⚡ Fun fact: When not coding, you can find me experimenting with new recipes in the kitchen. 🚀 
-💻 What I Do:
+
+##💻 What I Do:
 UI/UX Design: Transforming complex ideas into intuitive and visually appealing designs is my forte. I believe in the power of user-centric design to elevate digital interactions.
 
 Front-end Development: Bringing designs to life with clean and efficient code is where I thrive. Proficient in HTML, CSS, and JavaScript, I'm always up for the challenge of building responsive and interactive web applications.
